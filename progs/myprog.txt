@@ -1,3 +1,4 @@
 first git example
 
 "Hello new branch"
+This is Branch MASTER
